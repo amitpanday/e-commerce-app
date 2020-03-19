@@ -1,0 +1,4 @@
+#Thu Mar 19 00:46:53 IST 2020
+base.0=/home/amit/Project/e_commerce_demo/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

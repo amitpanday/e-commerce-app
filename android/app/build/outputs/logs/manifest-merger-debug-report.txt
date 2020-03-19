@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/amit/.gradle/caches/transforms-2/files-2.1/d5e26fa66eed2161679670027947f3c7/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/amit/.gradle/caches/transforms-2/files-2.1/cf020781ca880664d3ab03a403752a71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a0b91f67a006a107a587f439aaf2ca7b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/b69c20eb17bdc1178a37046b7518e70a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/24ff94068f5afe8ecb681288f327f122/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1a8860f105e33a00ccd7533d84608dd1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/de83aab82d17cd90fc5ea75d0555704d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1840fcdb9ab191addfb4df2b8d56df87/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/266943cb96be0ad5aac5f3c85c21bd90/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72d0939f3934647db87de29342253753/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/3faf21e746956151bf68e9efdbabd2d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d56fd48f1046184a6824bdd4587b8bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/103adf6e03bff78744970360f91a8130/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5e96b9470337f54cca22a7246811e490/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/efb1996e88e0772e3e9456477217b3f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/197b68bbae117fd6223737464f461e37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7ec5f84dc8505753b1c9a2049c71b7eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c7b9402f72421b4a5c40294f58ef4c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7a1e3949a1bcbf50ce19bff198e5a342/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/620a449b15e12345fa9f9b16da18026b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9e16f2a64eb8a6079268aaca3b38cddc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9c8ac9cde1f511619dc0e62f75d7a4fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2a702264f9dfc494a58ce70707bde5fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5b84a88522c06790c512a0f4a6c1e589/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/ed58462788d42cc94ac9a6fbe362b16b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/75fe0ada35641934696ab37246fe868a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5032232343410fbd9cda0ac7805e141a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5edea63f6ea6657c2792daa871868d51/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/da4588457de415ad8ad02cce0c5082bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/43383ebede934355ea0e93f3e90c53a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d6f2627c80b562a3f26ac162e36318e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d2700e726934057c3233d415a7dadb4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fce3771a92c412c0838e486aafec04f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/751cf4b3d99432508ff74ae1ddc9415c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e39faecd787d47138558ff8657a6f5c8/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72d0939f3934647db87de29342253753/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72d0939f3934647db87de29342253753/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5b84a88522c06790c512a0f4a6c1e589/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5b84a88522c06790c512a0f4a6c1e589/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.e_commerce_demo.MainActivity
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/amit/.gradle/caches/transforms-2/files-2.1/d5e26fa66eed2161679670027947f3c7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/amit/.gradle/caches/transforms-2/files-2.1/d5e26fa66eed2161679670027947f3c7/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/amit/.gradle/caches/transforms-2/files-2.1/cf020781ca880664d3ab03a403752a71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/amit/.gradle/caches/transforms-2/files-2.1/cf020781ca880664d3ab03a403752a71/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a0b91f67a006a107a587f439aaf2ca7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a0b91f67a006a107a587f439aaf2ca7b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/b69c20eb17bdc1178a37046b7518e70a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/b69c20eb17bdc1178a37046b7518e70a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/24ff94068f5afe8ecb681288f327f122/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/24ff94068f5afe8ecb681288f327f122/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1a8860f105e33a00ccd7533d84608dd1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1a8860f105e33a00ccd7533d84608dd1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/de83aab82d17cd90fc5ea75d0555704d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/de83aab82d17cd90fc5ea75d0555704d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1840fcdb9ab191addfb4df2b8d56df87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1840fcdb9ab191addfb4df2b8d56df87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/266943cb96be0ad5aac5f3c85c21bd90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/266943cb96be0ad5aac5f3c85c21bd90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72d0939f3934647db87de29342253753/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72d0939f3934647db87de29342253753/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/3faf21e746956151bf68e9efdbabd2d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/3faf21e746956151bf68e9efdbabd2d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d56fd48f1046184a6824bdd4587b8bc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d56fd48f1046184a6824bdd4587b8bc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/103adf6e03bff78744970360f91a8130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/103adf6e03bff78744970360f91a8130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5e96b9470337f54cca22a7246811e490/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5e96b9470337f54cca22a7246811e490/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/efb1996e88e0772e3e9456477217b3f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/efb1996e88e0772e3e9456477217b3f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/197b68bbae117fd6223737464f461e37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/197b68bbae117fd6223737464f461e37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7ec5f84dc8505753b1c9a2049c71b7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7ec5f84dc8505753b1c9a2049c71b7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c7b9402f72421b4a5c40294f58ef4c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c7b9402f72421b4a5c40294f58ef4c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7a1e3949a1bcbf50ce19bff198e5a342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7a1e3949a1bcbf50ce19bff198e5a342/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/620a449b15e12345fa9f9b16da18026b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/620a449b15e12345fa9f9b16da18026b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9e16f2a64eb8a6079268aaca3b38cddc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9e16f2a64eb8a6079268aaca3b38cddc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9c8ac9cde1f511619dc0e62f75d7a4fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9c8ac9cde1f511619dc0e62f75d7a4fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2a702264f9dfc494a58ce70707bde5fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2a702264f9dfc494a58ce70707bde5fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/07cbe3e1972a5295567888d6e9f58461/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5b84a88522c06790c512a0f4a6c1e589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5b84a88522c06790c512a0f4a6c1e589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/ed58462788d42cc94ac9a6fbe362b16b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/ed58462788d42cc94ac9a6fbe362b16b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/75fe0ada35641934696ab37246fe868a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/75fe0ada35641934696ab37246fe868a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5032232343410fbd9cda0ac7805e141a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5032232343410fbd9cda0ac7805e141a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5edea63f6ea6657c2792daa871868d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5edea63f6ea6657c2792daa871868d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/da4588457de415ad8ad02cce0c5082bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/da4588457de415ad8ad02cce0c5082bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/43383ebede934355ea0e93f3e90c53a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/43383ebede934355ea0e93f3e90c53a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d6f2627c80b562a3f26ac162e36318e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d6f2627c80b562a3f26ac162e36318e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d2700e726934057c3233d415a7dadb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/d2700e726934057c3233d415a7dadb4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fce3771a92c412c0838e486aafec04f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fce3771a92c412c0838e486aafec04f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/751cf4b3d99432508ff74ae1ddc9415c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/751cf4b3d99432508ff74ae1ddc9415c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e39faecd787d47138558ff8657a6f5c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e39faecd787d47138558ff8657a6f5c8/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/amit/Project/e_commerce_demo/android/app/src/debug/AndroidManifest.xml:5:22-75
