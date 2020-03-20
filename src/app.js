@@ -1,13 +1,24 @@
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { Root } from "native-base";
+import { StackNavigator } from "react-navigation";
 
-const app = () => {
-  return (
-    <View>
-      <Text>Hello, </Text>
-      <Text>This is the app file.</Text>
-    </View>
-  );
-};
+import Home from './containers/home'
 
-export default app;
+
+const AppNavigator = StackNavigator(
+  {
+    Home: { screen: Home }
+  },
+  {
+    initialRouteName: "Home",
+    headerMode: "none"
+  }
+);
+
+const App = () => (
+  <Root>
+    <AppNavigator />
+  </Root>
+)
+
+export default App;
