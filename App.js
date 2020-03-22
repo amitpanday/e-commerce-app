@@ -6,13 +6,13 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React from 'react';
 import Setup from '~/boot/setup';
 
-export default class App extends Component {
-  render() {
-    return (
-      <Setup />
-    );
-  }
-}
+const App = () => {
+  return (
+    <Setup />
+  );
+};
+
+export default App;

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import HomePage from "../../clients/homepage";
+import HomePage from "~/clients/homepage";
 
 export const HOMEPAGE_PENDING   = "HOMEPAGE_PENDING";
 export const HOMEPAGE_FULFILLED = "HOMEPAGE_FULFILLED";
