@@ -6,6 +6,7 @@ INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidMan
 INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /home/amit/Project/e_commerce_demo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/amit/.gradle/caches/transforms-2/files-2.1/d5e26fa66eed2161679670027947f3c7/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/amit/.gradle/caches/transforms-2/files-2.1/cf020781ca880664d3ab03a403752a71/AndroidManifest.xml:17:1-22:12
@@ -137,6 +138,8 @@ INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidMan
 INJECTED from /home/amit/Project/e_commerce_demo/android/app/src/main/AndroidManifest.xml
 MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /home/amit/Project/e_commerce_demo/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/amit/Project/e_commerce_demo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/amit/Project/e_commerce_demo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/amit/.gradle/caches/transforms-2/files-2.1/f90c4574e585a75721a3ad3c17e0f130/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/amit/.gradle/caches/transforms-2/files-2.1/d5e26fa66eed2161679670027947f3c7/AndroidManifest.xml:7:5-9:41

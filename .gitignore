@@ -47,6 +47,7 @@ buck-out
 .watchmanconfig
 
 # Android
+app/build/
 .idea
 .gradle
 local.properties

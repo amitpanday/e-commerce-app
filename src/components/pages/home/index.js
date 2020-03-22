@@ -1,13 +1,24 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { View, Text } from 'react-native';
+import PropTypes from 'prop-types';
+import { Container, Content } from 'native-base';
+import AppHeader from '~/components/common/header/';
+import Search from '~/components/ui/search';
 
-const app = () => {
-  return (
-    <View>
-      <Text>Hello, </Text>
-      <Text>This is the home file.</Text>
-    </View>
-  );
-};
 
-export default app;
+// Styles
+import styles from './styles'
+
+class Home extends Component {
+  render() {
+    return (
+      <Container style={styles.container}>
+        <AppHeader>
+          <Search />
+        </AppHeader>
+      </Container>
+    );
+  }
+}
+
+export default Home

@@ -22,6 +22,7 @@
     "react-native-looped-carousel": "^0.1.13",
     "react-native-modal-picker": "0.0.16",
     "react-native-splash-screen": "^3.1.1",
+    "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^1.5.0",
     "react-redux": "^5.1.1",
     "redux": "^4.0.1",
