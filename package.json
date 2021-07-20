@@ -17,7 +17,7 @@
     "native-base": "^2.8.1",
     "prop-types": "^15.6.2",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-looped-carousel": "^0.1.13",
     "react-native-modal-picker": "0.0.16",
